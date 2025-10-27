@@ -1,0 +1,6 @@
+- name: BLV CubeLink 2.1
+  url: https://github.com/SP1RYTUSzz/BLV_CubeLink_2.0
+  demo: https://github.com/SP1RYTUSzz/BLV_CubeLink_2.0
+  description: Two-way Multiplexing Comms System
+  tags: [LoRa, Python]
+  image: /assets/img/blv1.jpg
